@@ -1,4 +1,2 @@
-# los archivos que terminan en .o .a son ignorads
+#Archivos que terminan en .0 , .a se ignoran
 *.[oa]
-# los archivos que tienen tilde
-*~
